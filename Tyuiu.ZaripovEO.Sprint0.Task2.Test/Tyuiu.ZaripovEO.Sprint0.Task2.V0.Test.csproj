@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ZaripovEO.Sprint0.Task2.Lib\Tyuiu.ZaripovEO.Sprint0.Task2.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.ZaripovEO.Sprint0.Task2.Lib\Tyuiu.ZaripovEO.Sprint0.Task2.V0.Lib.csproj">
       <Project>{c6e5a4a6-c817-4d59-b79a-1a05d8db13a1}</Project>
-      <Name>Tyuiu.ZaripovEO.Sprint0.Task2.Lib</Name>
+      <Name>Tyuiu.ZaripovEO.Sprint0.Task2.V0.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

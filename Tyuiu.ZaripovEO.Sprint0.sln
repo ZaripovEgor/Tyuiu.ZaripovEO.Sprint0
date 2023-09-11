@@ -13,11 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZaripovEO.Sprint0.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{187B983A-ED11-41F5-8210-2CB620CFB0B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZaripovEO.Sprint0.Task2.Test", "Tyuiu.ZaripovEO.Sprint0.Task2.Test\Tyuiu.ZaripovEO.Sprint0.Task2.Test.csproj", "{A8F3F41C-84DF-459C-81FC-F2DE669006A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZaripovEO.Sprint0.Task2.V0.Test", "Tyuiu.ZaripovEO.Sprint0.Task2.Test\Tyuiu.ZaripovEO.Sprint0.Task2.V0.Test.csproj", "{A8F3F41C-84DF-459C-81FC-F2DE669006A6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZaripovEO.Sprint0.Task2.V0", "Tyuiu.ZaripovEO.Sprint0.Task2.V0\Tyuiu.ZaripovEO.Sprint0.Task2.V0.csproj", "{4C396E7B-C14C-4932-8E82-432ECCF62FCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZaripovEO.Sprint0.Task2.Lib", "Tyuiu.ZaripovEO.Sprint0.Task2.Lib\Tyuiu.ZaripovEO.Sprint0.Task2.Lib.csproj", "{C6E5A4A6-C817-4D59-B79A-1A05D8DB13A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZaripovEO.Sprint0.Task2.V0.Lib", "Tyuiu.ZaripovEO.Sprint0.Task2.Lib\Tyuiu.ZaripovEO.Sprint0.Task2.V0.Lib.csproj", "{C6E5A4A6-C817-4D59-B79A-1A05D8DB13A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
